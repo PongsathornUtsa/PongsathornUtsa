@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pongsathorn utsahawattanasuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pongsathorn utsahawattanasuk" height="30" width="40" /></a>
-<a href="https://fb.com/pongsathorn utsahawattanasuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pongsathorn utsahawattanasuk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Pongsathorn Utsahawattanasuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pongsathorn Utsahawattanasuk" height="30" width="40" /></a>
+<a href="https://fb.com/Pongsathorn Utsahawattanasuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pongsathorn Utsahawattanasuk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
