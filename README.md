@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pongsathorn Utsahawattanasuk</h1>
-<h3 align="center">Electrical Engineering srudent</h3>
+<h3 align="center">Electrical Engineering student</h3>
 <img align = 'right' alt="Coding" width = "400" src ="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **blockchain,smart contract**
